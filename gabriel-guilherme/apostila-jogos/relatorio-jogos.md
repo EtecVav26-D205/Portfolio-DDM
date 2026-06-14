@@ -39,9 +39,10 @@ Desenvolver um aplicativo onde o usuário pode realizar operações matemáticas
 Com os recursos fornecidos pelo App Inventor, fizemos uso de blocos, caixa de texto e recursos matemáticos.
 
 ### 🔥Melhorias Realizadas
-Mantemos o aplicativo, mudamos apenas na parte da multiplicação onde tornamos as contas mais simples reduzindo o número do multiplicador para um número entres 1 e 20
+Alteramos a interface e tambem mudamos a parte da multiplicação onde tornamos as contas mais simples reduzindo o número do multiplicador para um número entres 1 e 20
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e95ae194-bf96-4fb9-81d7-645d905eb34d" /><br>
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/aae58e88-a101-416f-8f1c-17058908189f" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/36b4ed31-bb05-4d66-9e9b-b65e75091d3b" />
+
 
 
 
