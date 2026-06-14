@@ -43,6 +43,22 @@ Alteramos a interface e tambem mudamos a parte da multiplicação onde tornamos 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e95ae194-bf96-4fb9-81d7-645d905eb34d" /><br>
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/36b4ed31-bb05-4d66-9e9b-b65e75091d3b" />
 
+_______________
+## *Aplicativo 3: Jog da Chuvea* 💧
+
+### 🏹Objetivo
+Desenvolver um aplicativo onde o usuário pode jogar um jogo de evitar ser encostado pelas gotas da chuva
+
+### 📘Desenvolvimento do Aplicativo
+Com os recursos fornecidos pelo App Inventor, fizemos um jogo com movimentação de personagem e de jogas tirando vida da pessoa a cada gota coletada.
+
+### 🔥Melhorias Realizadas
+Alteramos o número de vidas que cada pessoa tem por vez jogada.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f6e7298-9233-49e2-a452-e49a5341705a" /><br>
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d97dfacc-fd94-4a35-9709-b2051a36b7e2" />
+
+
 
 
 
