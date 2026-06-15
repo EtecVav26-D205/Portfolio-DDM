@@ -54,17 +54,19 @@ Posibilitamos o usuário digitar o email que quiser<br>
 
 ## 🎵 Projeto 3
 
-O objetivo do aplicativo é possibilitar que o usuário interaja com uma imagem e ouça um som correspondente.
+O objetivo do aplicativo é possibilitar que o usuário faça uma ligação para o número digitado.
 
 ### Desenvolvimento do Aplicativo
 
-Ao abrir o aplicativo, o usuário visualiza a imagem de uma cachoeira. Ao clicar sobre ela, é reproduzido o som de água corrente, simulando o som real de uma cachoeira.
+Ao abrir o aplicativo, o usuário visualiza uma caixa de texto e preenche com o número q ira realizar a ligação.
 
 ### Melhorias Realizadas
 
-Foram alterados tanto a imagem quanto o som utilizados no aplicativo.
-<img width="617" height="482" alt="Captura de tela 2026-03-30 090250" src="https://github.com/user-attachments/assets/9445d3c1-daea-45e1-bad1-37b7443f6fc1" />
-<img width="1204" height="814" alt="Captura de tela 2026-03-30 090243" src="https://github.com/user-attachments/assets/f1db2c48-b5f5-4325-adf1-b5930bba5c38" />
+Permitidos o usuario colocar o número de telefone que quiser<br>
+<img width="358" height="621" alt="image" src="https://github.com/user-attachments/assets/7373945a-af24-4789-9ad3-99aec6350156" />
+
+<img width="591" height="236" alt="image" src="https://github.com/user-attachments/assets/a8bdb3fa-3530-437a-abc1-305f7ddeb7a2" />
+
 
 ---
 
