@@ -35,17 +35,19 @@ Colocamos o site da nossa escola para ser aberto. <br>
 
 ## 🖌 Projeto 2
 
-O objetivo do aplicativo é permitir que o usuário utilize diferentes cores para desenhar na tela.
+O objetivo do aplicativo é permitir que o usuário envie emails.
 
 ### Desenvolvimento do Aplicativo
 
-Ao abrir o aplicativo, o usuário encontra opções de cores e uma área em branco que simula um quadro. Após selecionar uma cor, é possível desenhar livremente na tela utilizando o dedo.
+Ao abrir o aplicativo, o usuário encontra opções de inserir um email e o btao de enviar um email o redirecionando pra o aplicativo do gmail e mandando um email para o email digitado.
 
 ### Melhorias Realizadas
 
-Foi alterada a imagem utilizada como área de desenho.
-<img width="1582" height="796" alt="Captura de tela 2026-03-30 090231" src="https://github.com/user-attachments/assets/a6983764-e222-4389-aa28-aab65fc7fcec" />
-<img width="1193" height="818" alt="Captura de tela 2026-03-30 090215" src="https://github.com/user-attachments/assets/64e08d5a-3326-4e5c-a9c3-a28155d0252b" />
+Posibilitamos o usuário digitar o email que quiser<br>
+<img width="371" height="601" alt="image" src="https://github.com/user-attachments/assets/a61fd866-cbe4-4958-af84-32c9c11fe708" />
+
+<img width="700" height="209" alt="image" src="https://github.com/user-attachments/assets/96aca937-c978-4930-bc57-21d12f676701" />
+
 
 
 ---
