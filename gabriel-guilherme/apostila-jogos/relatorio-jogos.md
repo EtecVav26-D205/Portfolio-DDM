@@ -56,7 +56,8 @@ Com os recursos fornecidos pelo App Inventor, fizemos um jogo com movimentação
 Alteramos o número de vidas que cada pessoa tem por vez jogada.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f6e7298-9233-49e2-a452-e49a5341705a" /><br>
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d97dfacc-fd94-4a35-9709-b2051a36b7e2" />
+<img width="353" height="507" alt="image" src="https://github.com/user-attachments/assets/57baefc0-8dd2-4d27-b4b3-afaf43cafe77" />
+
 
 
 
