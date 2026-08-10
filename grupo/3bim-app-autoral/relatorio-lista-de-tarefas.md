@@ -45,4 +45,4 @@ Mostra a lista de agendamentos e todas as tarefas já existentes, e pode apagar 
 
 
 ### 📘Desenvolvimento do Aplicativo
-Adicionamos os textos de cada tarefa e sua caracteristicas, e botões de voltar e excluir 
+Adicionamos os textos de cada tarefa e sua caracteristicas, e botões de voltar e excluir.
