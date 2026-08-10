@@ -41,9 +41,8 @@ Adicionamos bloco de texto para o usuário colocar suas tarefas, com outros bot�
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/dd839ae7-438c-47b3-a43d-da58856a33dd" />
 
 ### 🏹Objetivo 
-Mostra a lista de agendamentos e todas as tarefas 
+Mostra a lista de agendamentos e todas as tarefas já existentes, e pode apagar uma delas.
 
 
 ### 📘Desenvolvimento do Aplicativo
-Adicionamos a imagem escolhida e selecionamos um botão que leva o usuário direto para a Lista.
-
+Adicionamos os textos de cada tarefa e sua caracteristicas, e botões de voltar e excluir 
