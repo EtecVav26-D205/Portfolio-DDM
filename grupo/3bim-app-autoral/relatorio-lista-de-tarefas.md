@@ -27,3 +27,12 @@ Exibir o ícone que fornece o acesso para a Lista de tarefas.
 ### 📘Desenvolvimento do Aplicativo
 Adicionamos a imagem escolhida e selecionamos um botão que leva o usuário direto para a Lista.
 
+## Screen 2
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/02ffc037-ffe7-44b7-9c1a-e5c030dd47d6" />
+
+### 🏹Objetivo 
+Apresenta uma tela que te possibilita adicionar uma nova tarefa, escolher a dat e o horário. Abaixo mostra um outro botão que permite ver os agendamentos já registrados.
+
+
+### 📘Desenvolvimento do Aplicativo
+Adicionamos a imagem escolhida e selecionamos um botão que leva o usuário direto para a Lista.
