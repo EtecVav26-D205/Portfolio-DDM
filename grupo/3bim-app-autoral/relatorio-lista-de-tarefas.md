@@ -36,3 +36,14 @@ Apresenta uma tela que te possibilita adicionar uma nova tarefa, escolher a data
 
 ### 📘Desenvolvimento do Aplicativo
 Adicionamos bloco de texto para o usuário colocar suas tarefas, com outros botões a possibilidade de ver as tarefas já existentes, seus horários e datas.
+
+## Screen 3
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/dd839ae7-438c-47b3-a43d-da58856a33dd" />
+
+### 🏹Objetivo 
+Mostra a lista de agendamentos e todas as tarefas 
+
+
+### 📘Desenvolvimento do Aplicativo
+Adicionamos a imagem escolhida e selecionamos um botão que leva o usuário direto para a Lista.
+
